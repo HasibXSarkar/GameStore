@@ -20,17 +20,10 @@ List<GameDto> games = [
 		"The Legend of Zelda: A Link to the Past",
 		"Action-Adventure",
 		39.99M,
-		new DateOnly(1991, 11, 21),
-
-
-	)
-
-
-
-
-
-	)
-]
-app.MapGet("/", () => "Hello From C# API");
-
+		new DateOnly(1991, 11, 21)),
+];
+//GET al games
+app.MapGet("/games", () => games);
+//GET game by id
+app.MapGet("games/{id}", (int id) => games.Find(game => game.Id == id));
 app.Run();
