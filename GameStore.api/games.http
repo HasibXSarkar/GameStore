@@ -11,3 +11,13 @@ Content-Type: application/json
     "price": 59.99,
     "releaseDate": "2024-12-01"
 }
+###
+PUT http://localhost:5204/games/1
+Content-Type: application/json
+
+{
+    "name": "Street Fighter II",
+    "genre": "Fighting",
+    "price": 9.99,
+    "releaseDate": "1990-07-15"
+}
