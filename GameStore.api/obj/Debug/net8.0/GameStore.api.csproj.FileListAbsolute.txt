@@ -24,3 +24,9 @@ C:\Users\sarka\GameStore\GameStore.api\obj\Debug\net8.0\GameStore.api.pdb
 C:\Users\sarka\GameStore\GameStore.api\obj\Debug\net8.0\GameStore.api.genruntimeconfig.cache
 C:\Users\sarka\GameStore\GameStore.api\obj\Debug\net8.0\ref\GameStore.api.dll
 C:\Users\sarka\GameStore\GameStore.api\obj\Debug\net8.0\GameStore.api.sourcelink.json
+C:\Users\sarka\GameStore\GameStore.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sarka\GameStore\GameStore.api\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\sarka\GameStore\GameStore.api\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\sarka\GameStore\GameStore.api\obj\Debug\net8.0\GameStore.api.csproj.AssemblyReference.cache
+C:\Users\sarka\GameStore\GameStore.api\obj\Debug\net8.0\GameStore.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sarka\GameStore\GameStore.api\obj\Debug\net8.0\GameStore.api.csproj.CopyComplete
